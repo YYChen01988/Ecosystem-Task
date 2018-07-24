@@ -1,3 +1,4 @@
+
 class River
   attr_reader :name, :fish_number
 
@@ -8,7 +9,7 @@ class River
 
   end
 
-  
+
 
 
 
